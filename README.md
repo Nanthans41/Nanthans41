@@ -55,7 +55,7 @@ A C# console application that defines a `Student` model and an Entity Framework 
 **Technologies:** C#, Entity Framework 6, SQL Server LocalDB, Visual Studio
 
 <!-- Replace YOUR_REPOSITORY_URL with the URL for this project after publishing it. -->
-[View the project on GitHub](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME)
+[View the project on GitHub](https://github.com/Nanthans41?tab=repositories))
 
 ## Currently learning
 
