@@ -68,9 +68,7 @@ A C# console application that defines a `Student` model and an Entity Framework 
 
 I’m always happy to connect with other developers and share what I’m learning.
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- LinkedIn: [YOUR NAME](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- Email: [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
+- GitHub: [@Nanthans41](https://github.com/Nanthans41))
 
 <div align="center">
   <sub>Thanks for visiting my profile! ✨</sub>
