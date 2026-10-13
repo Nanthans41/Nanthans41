@@ -64,11 +64,7 @@ A C# console application that defines a `Student` model and an Entity Framework 
 - Working with SQL databases and data access
 - Improving my Git and GitHub workflow
 
-## Get in touch
-
 I’m always happy to connect with other developers and share what I’m learning.
-
-- GitHub: [@Nanthans41](https://github.com/Nanthans41)
 
 <div align="center">
   <sub>Thanks for visiting my profile! ✨</sub>
